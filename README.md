@@ -1,6 +1,6 @@
 # courseroad_optimization
 
-Key descriptions of course_data.csv:
+Key descriptions in course_data.csv:
 
 - 'no': Course number (eg.6.1220)
 - 'co': Department (eg. 6)
