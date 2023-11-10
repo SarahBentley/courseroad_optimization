@@ -4,7 +4,7 @@ Key descriptions in course_data.csv:
 
 - 'no': Course number (eg.6.1220)
 - 'co': Department (eg. 6)
-- 'cl', Class number (eg 1220)
+- 'cl': Class number (eg 1220)
 - 'hh': Hass-H (0 if false, 1 if true)
 - 'ha': Hass-A (0 if false, 1 if true)
 - 'hs': Hass-S (0 if false, 1 if true)
