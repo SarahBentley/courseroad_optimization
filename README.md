@@ -1,4 +1,6 @@
-# courseroad_optimization
+# Courseroad Optimization
+Optimization Methods Final Project - Finding the optimal way to complete MIT's Artificial Intelligence & Decision-Making major.
+Final paper: https://drive.google.com/file/d/1M7NHmV4JWFWwUULX_vAt2XlJChJWAg-2/view?usp=sharing
 
 Key descriptions in course_data.csv:
 
